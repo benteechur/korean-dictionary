@@ -133,3 +133,4 @@ dmypy.json
 /web-scraping/pronunciation_all.csv
 /pronunciation-prediction/vec_pronunciation_all.csv
 /pronunciation-prediction/vec_spelling_all.csv
+/pronunciation-prediction/pronunciation_prediction.h5
