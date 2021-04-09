@@ -135,3 +135,6 @@ dmypy.json
 /pronunciation-prediction/vec_spelling_all.csv
 /pronunciation-prediction/reference_all.csv
 /pronunciation-prediction/pronunciation_prediction.h5
+
+# Executables
+/pronunciation-prediction/chromedriver.exe
