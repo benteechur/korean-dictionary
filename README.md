@@ -1,7 +1,7 @@
 # korean-dictionary
 
 ## Performance of Pronunciation Prediction Model
-[Validation Based on Various Phonological Phenomena](https://github.com/benteechur/korean-dictionary/blob/main/pronunciation-prediction/05_validation.ipynb)
+[Validation Based on Various Phonological Phenomena](https://github.com/benteechur/korean-dictionary/blob/main/pronunciation-prediction/06_validation.ipynb)
 
 References:
 
